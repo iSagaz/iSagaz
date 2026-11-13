@@ -14,11 +14,11 @@ Projetos que representam minhas principais experiências práticas de desenvolvi
 
 | Projeto       | Descrição                                                                                   |
 | ------------- | ------------------------------------------------------------------------------------------- |
-| **NexoraAI**  | Gerador de landing pages a partir de comandos em texto, utilizando inteligência artificial. |
-| **CodeFix**   | Projeto voltado à programação e à resolução de problemas relacionados a código.             |
-| **Nexum**     | Plataforma que conecta estudantes a mentores voluntários para auxiliar no aprendizado.      |
-| **GTA6**      | Projeto web com foco em interface, estrutura visual e desenvolvimento front-end.            |
-| **Portfólio** | Site pessoal desenvolvido para apresentar meus projetos e minha evolução na programação.    |
+| [**NexoraAI**](https://github.com/iSagaz/NexoraAI)  | Gerador de landing pages a partir de comandos em texto, utilizando inteligência artificial. |
+| [**CodeFix**](https://github.com/iSagaz/CodeFix)| Projeto voltado à programação e à resolução de problemas relacionados a código.             |
+| [**Nexum**](https://github.com/real-gui/nexum)| Plataforma que conecta estudantes a mentores voluntários para auxiliar no aprendizado.      |
+| [**GTA6**](https://github.com/iSagaz/GTA6) | Projeto web com foco em interface, estrutura visual e desenvolvimento front-end.            |
+| [**PORTFOLIO**](https://github.com/iSagaz/PORTFOLIO) | Site pessoal desenvolvido para apresentar meus projetos e minha evolução na programação.    |
 
 ---
 
