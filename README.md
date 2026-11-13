@@ -32,7 +32,7 @@ Utilizo este GitHub para documentar minha evolução, desenvolver projetos prát
 | Projeto | Descrição |
 | :-- | :-- |
 | [**NexoraAI**](https://github.com/iSagaz/NexoraAI) | Gerador de landing pages a partir de comandos em texto, utilizando inteligência artificial. |
-| [**CodeFix**](https://github.com/iSagaz/CodeFix) | Projeto voltado à programação e à resolução de problemas relacionados a código. |
+| [**CodeFix**](https://github.com/iSagaz/CodeFix) | Assistente de análise de código com IA que identifica erros de programação |
 | [**Nexum**](https://github.com/real-gui/nexum) | Plataforma que conecta estudantes a mentores voluntários para auxiliar no aprendizado. |
 | [**GTA6**](https://github.com/iSagaz/GTA6) | Projeto web com foco em interface, estrutura visual e desenvolvimento front-end. |
 | [**PORTFOLIO**](https://github.com/iSagaz/PORTFOLIO) | Site pessoal desenvolvido para apresentar meus projetos e minha evolução na programação. |
@@ -47,7 +47,7 @@ Utilizo este GitHub para documentar minha evolução, desenvolver projetos prát
 <summary><b>☕ Java</b></summary>
 <br>
 
-- **Java Foundations:** exercícios e conteúdos desenvolvidos durante meus estudos dos fundamentos da linguagem Java.
+- [**JavaFundations**](https://github.com/iSagaz/JavaFundations) exercícios e conteúdos desenvolvidos durante meus estudos dos fundamentos da linguagem Java.
 
 </details>
 
@@ -55,9 +55,9 @@ Utilizo este GitHub para documentar minha evolução, desenvolver projetos prát
 <summary><b>🐍 Python</b></summary>
 <br>
 
-- **Calculadora:** aplicação para operações matemáticas básicas.
-- **Quiz:** programa interativo de perguntas e respostas.
-- **Bot:** projeto inicial de automação e interação utilizando Python.
+- [**Calculadora**](https://github.com/iSagaz/Calculadora-Simples) aplicação para operações matemáticas básicas.
+- [**Quiz**](https://github.com/iSagaz/Quiz---Python) programa interativo de perguntas e respostas.
+- [**Meu Primeiro Bot**](https://github.com/iSagaz/Meu-primeiro-bot) projeto inicial de automação e interação utilizando Python.
 
 </details>
 
@@ -65,8 +65,8 @@ Utilizo este GitHub para documentar minha evolução, desenvolver projetos prát
 <summary><b>🟨 JavaScript</b></summary>
 <br>
 
-- **Calculadora JS:** aplicação de operações matemáticas utilizando JavaScript e manipulação da interface.
-- **Lâmpada JS:** aplicação interativa que simula o funcionamento de uma lâmpada por meio de eventos e manipulação do DOM.
+- [**Calculadora JS**](https://github.com/iSagaz/Calculadora-JS) aplicação de operações matemáticas utilizando JavaScript e manipulação da interface.
+- [**Lampada JS**](https://github.com/iSagaz/Lampada-JS) aplicação interativa que simula o funcionamento de uma lâmpada por meio de eventos e manipulação do DOM.
 
 </details>
 
