@@ -35,7 +35,7 @@ Utilizo este GitHub para documentar minha evolução, desenvolver projetos prát
 | [**CodeFix**](https://github.com/iSagaz/CodeFix) | Assistente de análise de código com IA que identifica erros de programação |
 | [**Nexum**](https://github.com/real-gui/nexum) | Plataforma que conecta estudantes a mentores voluntários para auxiliar no aprendizado. |
 | [**GTA6**](https://github.com/iSagaz/GTA6) | Projeto web com foco em interface, estrutura visual e desenvolvimento front-end. |
-| [**Spotify**](https://github.com/iSagaz/Spotify) | |
+| [**Spotify**](https://github.com/iSagaz/Spotify) | 	Recriação da interface do Spotify, com foco em organização de componentes e desenvolvimento front-end. |
 | [**PORTFOLIO**](https://github.com/iSagaz/PORTFOLIO) | Site pessoal desenvolvido para apresentar meus projetos e minha evolução na programação. |
 
 <br>
